@@ -5,4 +5,3 @@
 ## Projects I'm working on this year is [Alpha-discord](https://www.npmjs.com/package/alpha-discord), a project that will help you with discord bots (Discord.js & Node.js) in javascript.
 
 ![Github Stats Daddyzada](https://github-readme-stats.vercel.app/api?username=daddyzada&show_icons=true&theme=dark)
-[![Github Langs Top Daddyzada](https://github-readme-stats.vercel.app/api/top-langs/?username=daddyzada&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
